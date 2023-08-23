@@ -1,0 +1,8 @@
+C:\Aug23\A-9\A-9\bin\Debug\A-9.exe.config
+C:\Aug23\A-9\A-9\bin\Debug\A-9.exe
+C:\Aug23\A-9\A-9\bin\Debug\A-9.pdb
+C:\Aug23\A-9\A-9\obj\Debug\A-9.csproj.AssemblyReference.cache
+C:\Aug23\A-9\A-9\obj\Debug\A-9.csproj.SuggestedBindingRedirects.cache
+C:\Aug23\A-9\A-9\obj\Debug\A-9.csproj.CoreCompileInputs.cache
+C:\Aug23\A-9\A-9\obj\Debug\A-9.exe
+C:\Aug23\A-9\A-9\obj\Debug\A-9.pdb
